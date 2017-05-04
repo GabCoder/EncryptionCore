@@ -13,3 +13,5 @@ Just start it with **Windows CMD** or **PowerShell** and input this line:<br>
 > - **outFile.txt** - output file with encrypted bytes
 
 If you need to decrypt your encrypted file, just use this file like a input and use password, which used to encrypt this file
+
+> **P.S:** You can use any passwords with any length.
