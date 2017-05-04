@@ -4,7 +4,7 @@ Encryption based on **XOR**. Super-fast file encryption core written on **JAVA**
 
 How to use!
 -------------
-Just start it with **Windows CMD** or **PowerShell** and input this line:
+Just start it with **Windows CMD** or **PowerShell** and input this line:<br>
 `java GCEncrypt fileToEncrypt.txt password outFile.txt`
 > **About var's:**
 
